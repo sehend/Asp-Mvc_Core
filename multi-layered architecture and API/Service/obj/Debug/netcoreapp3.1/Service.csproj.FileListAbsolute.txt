@@ -1,0 +1,51 @@
+C:\Users\S3H3ND\Desktop\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\S3H3ND\Desktop\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\S3H3ND\Desktop\multi-layered architecture and API - Kopya - Kopya\Service\obj\Debug\netcoreapp3.1\Service.pdb
