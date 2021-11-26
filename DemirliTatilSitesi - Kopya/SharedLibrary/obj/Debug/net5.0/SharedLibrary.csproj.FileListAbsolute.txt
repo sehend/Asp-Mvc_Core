@@ -1,0 +1,22 @@
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\bin\Debug\net5.0\SharedLibrary.deps.json
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\bin\Debug\net5.0\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\bin\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
+C:\Users\S3H3ND\Desktop\DemirliTatilSitesi - Kopya\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
