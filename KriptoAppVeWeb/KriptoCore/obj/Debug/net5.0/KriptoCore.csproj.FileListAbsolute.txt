@@ -1,0 +1,12 @@
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\bin\Debug\net5.0\KriptoCore.deps.json
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\bin\Debug\net5.0\KriptoCore.dll
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\bin\Debug\net5.0\ref\KriptoCore.dll
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\bin\Debug\net5.0\KriptoCore.pdb
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.csproj.AssemblyReference.cache
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.AssemblyInfoInputs.cache
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.AssemblyInfo.cs
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.dll
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\ref\KriptoCore.dll
+C:\Users\S3H3ND\Desktop\KriptoAppVeWeb\KriptoCore\obj\Debug\net5.0\KriptoCore.pdb

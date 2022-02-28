@@ -1,0 +1,89 @@
+﻿
+@model NotIdentity.ViewModels.UserViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<h3 class="text-sm-center">Kulanıcı Bilgileri</h3>
+
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+
+            <div class="row">
+
+                <div class="col-md-3">
+                    <img style="width:100% ; height:100%" src="@Model.Picture" />
+                </div>
+
+                <div class="col-md-9">
+
+                    <table class="table table-bordered table-striped">
+                        <tr>
+                            <th>Kullanıcı ismi</th>
+                            <td>@Model.UserName</td>
+                        </tr>
+                        <tr>
+                            <th>E-posta</th>
+                            <td>@Model.Email</td>
+                        </tr>
+
+                        <tr>
+                            <th>Telefon no</th>
+                            <td>@Model.PhoneNumber</td>
+                        </tr>
+                        <tr>
+                            <th>City</th>
+                            <td>
+                                @if (!String.IsNullOrEmpty(Model.Ctiy))
+                                {
+                    @Model.Ctiy }
+                                else
+
+                                {
+                    <span>belirtilmemiş</span>}
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Doğum tarihi</th>
+                            <td>
+
+                                @if (Model.Birthday != null)
+                                {
+                    @Model.Birthday?.ToShortDateString() }
+                                else
+
+                                {
+                    <span>belirtilmemiş</span>}
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <th>Cinsiyet</th>
+                            <td>@Model.Gneder</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+
+            <a class="btn btn-info btn-block" asp-action="PasswordChange" asp-controller="Member">Şifre Degiştir</a>
+
+            <a class="btn btn-info btn-block" asp-action="UserEdit" asp-controller="Member">Günceller</a>
+
+            <a class="btn btn-info btn-block" asp-action="Index" asp-controller="Admin">Admin Ana Sayfa</a>
+
+            <a class="btn btn-info btn-block" asp-action="Logout" asp-controller="Member">Çıkış Yap</a>
+
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnvrBrj4E3A1rL0BM49nH7BcunFqCvNxohFKMuwESGayg1loz6QrWwXuDaOEZAU8wMDprLRTLFsOOJkb3fENPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S3H3ND\\Desktop\\KriptoAppVeWeb\\KriptoCore\\KriptoCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\S3H3ND\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

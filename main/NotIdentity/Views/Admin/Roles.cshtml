@@ -1,0 +1,52 @@
+﻿@model List<NotIdentity.Models.AppRole>
+@{
+    ViewData["Title"] = "Roles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Roles</h1>
+
+@if (ViewBag.error!=null)
+{
+    <div class="alert alert-danger">@ViewBag.error</div>
+}
+<table class="table table-bordered table-striped">
+
+    <tr>
+        <th>Id</th>
+
+        <th>Rol İsim</th>
+
+        <th>Silme</th>
+
+        <th>Güncelle</th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+
+            <td>@item.Name</td>
+            <td>
+
+            <form asp-action="RoleDelete" asp-route-id="@item.Id" method="post">
+
+            <button class="btn btn-success" type="submit">Sil</button>
+
+            </form>
+
+            </td>
+
+            <td><a class="btn btn-info" asp-action="RolApdate" asp-route-id="@item.Id">Güncelle</a></td>
+
+        </tr>
+
+
+    }
+
+</table>
+
+
+<a asp-action="RolCreat" class="btn btn-info">Rol Oluştur</a>
