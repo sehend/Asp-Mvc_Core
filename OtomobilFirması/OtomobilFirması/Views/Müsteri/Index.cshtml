@@ -1,0 +1,176 @@
+﻿@model IEnumerable<Core.Model.MüsteriBilgileri>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="MüsterisSave">Create New</a>
+</p>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+<script src="//cdn.datatables.net/tabletools/2.2.4/js/dataTables.tableTools.min.js"></script>
+<link rel="stylesheet" type="text/css"
+      href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" type="text/css"
+      href="//cdn.datatables.net/tabletools/2.2.4/css/dataTables.tableTools.css" />
+
+
+<script>$(document).ready(function () {
+    $('#datatable').DataTable({
+            dom: 'Bfrtip',
+            buttons: [
+                'copy', 'csv', 'excel', 'pdf', 'print'
+            ]
+        });
+    });
+    </script>
+
+<table class="table table table-striped " id="datatable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Marka)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MüsteriNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Plaka)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Soyad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.İsTelefon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EvTelefon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ceptelefon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PostaKodu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ilce)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Şehir)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrafigeCıkısTarihi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SonServisTarih)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SasiNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MotorNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AracTanımı)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AracRengi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fiyat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Marka)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MüsteriNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Plaka)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Soyad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.İsTelefon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EvTelefon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ceptelefon)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fax)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adress)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PostaKodu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ilce)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Şehir)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TrafigeCıkısTarihi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SonServisTarih)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SasiNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MotorNo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AracTanımı)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AracRengi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fiyat)
+                </td>
+                <td>
+                    <a asp-action="MüsterisUpdate" asp-route-id="@item.MüsteriId">Edit</a> |
+
+                    <a asp-action="MüsterisDelete" asp-route-id="@item.MüsteriId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,914 @@
+﻿++Solution 'JWT' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:JWT.sln
+++Web
+i:{00000000-0000-0000-0000-000000000000}:Web
+++Connected Services 
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1328
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1327
+++Dependencies
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1325
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1326
+++Properties
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\properties\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\properties\
+++wwwroot
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\
+++Controllers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\controllers\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\controllers\
+++Models
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\models\
+++Views
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\
+++appsettings.Development.json
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\appsettings.development.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\appsettings.development.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\appsettings.development.json
+++appsettings.json
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\appsettings.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\appsettings.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\appsettings.json
+++libman.json
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\libman.json
+++Program.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\program.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\program.cs
+++No service dependencies discovered
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1330
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1329
+++Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:analyzers
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:analyzers
+++Frameworks
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:frameworks
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:frameworks
+++Packages
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:packages
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:packages
+++launchSettings.json
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\properties\launchsettings.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\properties\launchsettings.json
+++css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\css\
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\js\
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\lib\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\
+++favicon.ico
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\favicon.ico
+++AccountController.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\controllers\accountcontroller.cs
+++HomeController.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\controllers\homecontroller.cs
+++ErrorViewModel.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\models\errorviewmodel.cs
+++JwtResponseModel.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\models\jwtresponsemodel.cs
+++UserLoginModel.cs
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\models\userloginmodel.cs
+++Account
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\account\
+++Home
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\home\
+++Shared
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\shared\
+++_ViewImports.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\_viewstart.cshtml
+++MessagePackAnalyzer
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\microsoft.aspnetcore.app
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\microsoft.netcore.app
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.4)
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1371
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1378
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1367
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1368
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.3)
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1373
+++Swashbuckle.AspNetCore (6.3.0)
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:>1369
+++site.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\css\site.css
+++site.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\js\site.js
+++bootstrap
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\
+++jquery
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\
+++jquery-validation
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation-unobtrusive\
+++SingIn.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\account\singin.cshtml
+++AdminPage.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\home\adminpage.cshtml
+++Index.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\home\index.cshtml
+++MemberPage.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\home\memberpage.cshtml
+++Privacy.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\views\shared\error.cshtml
+++dist
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\dist\
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\license.txt
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++jquery.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{e15f722b-6c78-4630-8bc5-1e1079e619da}:c:\users\sehen\desktop\jwt\web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++JWT
+i:{00000000-0000-0000-0000-000000000000}:JWT
+++Imports
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>588
+++bin
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\
+++AuthController.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\controllers\authcontroller.cs
+++CategoriesController.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\controllers\categoriescontroller.cs
+++ProductsController.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\controllers\productscontroller.cs
+++Core
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\
+++Application
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\
+++Dto
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\dto\
+++Enums
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\enums\
+++Features
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\
+++CQRS
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\
+++Commend
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\
+++CreateCategoryCommedRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\createcategorycommedrequest.cs
+++CreateProductCommendRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\createproductcommendrequest.cs
+++DeleteCategoryCommendRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\deletecategorycommendrequest.cs
+++DeleteProductCommentRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\deleteproductcommentrequest.cs
+++RegisterUserCommendRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\registerusercommendrequest.cs
+++UpdateCategoryCommendRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\updatecategorycommendrequest.cs
+++UpdateProductCommendRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\commend\updateproductcommendrequest.cs
+++Handlers
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\
+++ChekUserQueryRequestHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\chekuserqueryrequesthandler.cs
+++CreateCategoryCommendHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\createcategorycommendhandler.cs
+++CreateProductCommendHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\createproductcommendhandler.cs
+++DeleteCategoryCommendHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\deletecategorycommendhandler.cs
+++DeleteProductCommendHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\deleteproductcommendhandler.cs
+++GetAllProductQueryHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\getallproductqueryhandler.cs
+++GetCategoryQueryHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\getcategoryqueryhandler.cs
+++GetCategoryQueryHandler1.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\getcategoryqueryhandler1.cs
+++GetProductQueryHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\getproductqueryhandler.cs
+++RegisterUserCommendHander.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\registerusercommendhander.cs
+++UpdateCategoryCommendHanler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\updatecategorycommendhanler.cs
+++UpdateProductCommendHandler.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\handlers\updateproductcommendhandler.cs
+++Queries
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\
+++interfaces
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\interfaces\
+++Mappings
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\mappings\
+++CategoryProfile.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\mappings\categoryprofile.cs
+++ProductProfile.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\mappings\productprofile.cs
+++Domain
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\domain\
+++AppRole.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\domain\approle.cs
+++AppUser.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\domain\appuser.cs
+++Category.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\domain\category.cs
+++Product.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\domain\product.cs
+++infrastructure
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\infrastructure\
+++Tools
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\infrastructure\tools\
+++JwtTokenGenerator.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\infrastructure\tools\jwttokengenerator.cs
+++JwtTokenResponse.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\infrastructure\tools\jwttokenresponse.cs
+++JwtTokenSettings.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\infrastructure\tools\jwttokensettings.cs
+++Migrations
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\migrations\
+++obj
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\
+++Persistance
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\
+++Sdk.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Debug
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\
+++CategoryListDto.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\dto\categorylistdto.cs
+++ChekUserResponsDto.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\dto\chekuserresponsdto.cs
+++ProductListDto.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\dto\productlistdto.cs
+++RoleType.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\enums\roletype.cs
+++ChekUserQueryRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\chekuserqueryrequest.cs
+++GetAllProductsQueryRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\getallproductsqueryrequest.cs
+++GetCategoriesQueryRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\getcategoriesqueryrequest.cs
+++GetCategoryQueryRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\getcategoryqueryrequest.cs
+++GetProductQueryRequest.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\features\cqrs\queries\getproductqueryrequest.cs
+++IRepository.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\core\application\interfaces\irepository.cs
+++20220422124210_init.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\migrations\20220422124210_init.cs
+++AppDbcontextModelSnapshot.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\migrations\appdbcontextmodelsnapshot.cs
+++JWT.csproj.nuget.dgspec.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\jwt.csproj.nuget.dgspec.json
+++JWT.csproj.nuget.g.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\jwt.csproj.nuget.g.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\jwt.csproj.nuget.g.props
+++JWT.csproj.nuget.g.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\jwt.csproj.nuget.g.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\jwt.csproj.nuget.g.targets
+++project.assets.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\project.assets.json
+++project.nuget.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\staticwebassets.pack.sentinel
+++Configurations
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\configurations\
+++Context
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\context\
+++Repositories
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\repositories\
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1375
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1380
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1372
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1376
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1374
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1379
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:>1377
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++net6.0
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\
+++20220422124210_init.Designer.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\migrations\20220422124210_init.designer.cs
+++AppUserConfugarition.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\configurations\appuserconfugarition.cs
+++AppDbcontext.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\context\appdbcontext.cs
+++Repository.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\persistance\repositories\repository.cs
+++Microsoft.Common.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++runtimes
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\
+++AutoMapper.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\automapper.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\automapper.extensions.microsoft.dependencyinjection.dll
+++Humanizer.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\humanizer.dll
+++JWT.deps.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\jwt.deps.json
+++JWT.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\jwt.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\ref\jwt.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\refint\jwt.dll
+++JWT.exe
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\jwt.exe
+++JWT.pdb
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\jwt.pdb
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.pdb
+++JWT.runtimeconfig.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\jwt.runtimeconfig.json
+++MediatR.Contracts.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\mediatr.contracts.dll
+++MediatR.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\mediatr.dll
+++MediatR.Extensions.Microsoft.DependencyInjection.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\mediatr.extensions.microsoft.dependencyinjection.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.aspnetcore.authentication.jwtbearer.dll
+++Microsoft.Data.SqlClient.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Identity.Client.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Configuration.ConfigurationManager.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.drawing.common.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.runtime.caching.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\system.windows.extensions.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++ref
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\ref\
+++refint
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\refint\
+++staticwebassets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\apphost.exe
+++JWT.AssemblyInfo.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.assemblyinfo.cs
+++JWT.AssemblyInfoInputs.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.assemblyinfoinputs.cache
+++JWT.assets.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.assets.cache
+++JWT.csproj.AssemblyReference.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.csproj.assemblyreference.cache
+++JWT.csproj.BuildWithSkipAnalyzers
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.csproj.buildwithskipanalyzers
+++JWT.csproj.CopyComplete
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.csproj.copycomplete
+++JWT.csproj.CoreCompileInputs.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.csproj.corecompileinputs.cache
+++JWT.csproj.FileListAbsolute.txt
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.csproj.filelistabsolute.txt
+++JWT.GeneratedMSBuildEditorConfig.editorconfig
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.generatedmsbuildeditorconfig.editorconfig
+++JWT.genruntimeconfig.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.genruntimeconfig.cache
+++JWT.GlobalUsings.g.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.globalusings.g.cs
+++JWT.MvcApplicationPartsAssemblyInfo.cache
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.mvcapplicationpartsassemblyinfo.cache
+++JWT.MvcApplicationPartsAssemblyInfo.cs
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\jwt.mvcapplicationpartsassemblyinfo.cs
+++staticwebassets.build.json
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\obj\debug\net6.0\staticwebassets.build.json
+++Microsoft.NuGet.ImportBefore.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files (x86)\microsoft sdks\typescript\4.3\build\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++unix
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\
+++win
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x86\
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\.nuget\packages\swashbuckle.aspnetcore\6.2.3\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\.nuget\packages\microsoft.entityframeworkcore.design\6.0.1\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++AutoImport.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\packs\microsoft.net.runtime.webassembly.sdk\6.0.4\sdk\autoimport.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++04.03.05.00.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files (x86)\microsoft sdks\typescript\versions\04.03.05.00.props
+++native
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm\native\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x64\native\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x86\native\
+++Microsoft.NET.ILLink.Tasks.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++netcoreapp3.0
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++JWT.csproj.user
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\desktop\jwt\jwt\jwt.csproj.user
+++Microsoft.NET.props
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\users\sehen\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.DesktopBridge.Common.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{d5aea810-bcac-4869-a12b-dbd252f1203f}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
