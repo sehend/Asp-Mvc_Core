@@ -1,0 +1,155 @@
+﻿
+@{
+    ViewData["Title"] = "DomManipilasyonu";
+}
+
+
+<h1>DomManipilasyonu</h1>
+
+
+<style type="text/css">
+
+    .renk{ color:orange;}
+
+    div{width:100px;height:100px}
+
+</style>
+
+<style type="text/css">
+
+    .renk2 {
+       
+        background-color:brown;
+
+      
+    }
+
+
+</style>
+
+<style type="text/css">
+
+
+    div {
+        width: 100px;
+
+        height: 100px;
+
+        background-color:red;
+    }
+
+</style>
+
+
+<div>
+
+    <p  > Sehend Sina </p>
+
+</div>
+
+<br />
+
+<br />
+
+<div></div>
+
+
+<p class="renk2" >sehend Sina 1234</p>
+
+<p class="renk2">sehend Sina 1234</p>
+
+<br />
+
+<br />
+
+<button>Ekle kaldır</button>
+
+<div class="sehend">mehmet</div>
+
+<div class="sehend">rüzgar</div>
+
+<div class="sehend">poyraz</div>
+
+<ul>
+
+    <li>barış</li>
+
+    <li>nursen</li>
+
+    <li>Cihan</li>
+
+    <li>Serhat</li>
+
+
+
+</ul>
+
+<p class="degişim">Degişcek deger</p>
+
+<button class="degitirecekbutton">Degiş</button>
+
+<script>
+
+    $(document).ready(function () {
+
+
+        $("p").addClass("renk");
+
+    });
+
+    $(document).ready(function () {
+
+
+
+
+            $("div").height(100).fadeOut(2000).fadeIn(2000);
+
+
+      
+  
+
+    });
+
+    //$(document).ready(function () {
+
+
+    //    $("button").click(function () {
+
+    //    $("p").toggleClass(" renk2")
+
+    //});
+
+
+    //});
+
+
+    $(document).ready(function () {
+
+
+        $(".sehend").append(" Önüne ekledim");
+
+        $(".sehend").prepend("Arkkasına ekledim ");
+
+    });
+
+
+    $(document).ready(function () {
+
+
+
+        $("li").after("<li> Jquery</li>").slice(12);
+
+
+    });
+
+
+    $(document).ready(function () {
+
+        $("button").click(function() {
+
+            $("p").replaceWith("<p> Degişti</p>");
+
+        });
+    });
+
+</script>

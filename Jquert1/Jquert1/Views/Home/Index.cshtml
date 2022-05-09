@@ -1,0 +1,164 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<p>Sehend</p>
+
+<div id="sina">Sina</div>
+
+<div class="a">Bariş</div>
+
+<form>
+
+    <input type="text" name="" placeholder="Adınızı Giriniz" /> <br /> <br />
+
+    <input type="password" placeholder="Şifrenizi Giriniz" />
+
+
+</form>
+
+<li>1</li>
+
+<li>2</li>
+
+<li>3</li>
+
+<li>4</li>
+
+<li>5</li>
+
+<li>6</li>
+
+<div class="sehend">
+    <p>ali</p>
+
+    <p>hüseyin</p
+
+    ><p>poyraz</p>
+
+    <p>rüzgar</p>
+
+    <b>kanarya</b>
+
+</div>
+
+<div class="bir">
+    bir
+</div>
+
+<div class="iki">
+    iki
+</div>
+
+
+<div class="üç">
+    üç
+</div>
+
+
+<div class="dört">
+    dört
+</div>
+
+
+
+<script>
+
+    $(document).ready(function () {
+
+        $('p').css('color', 'blue');
+
+    });
+
+    $(document).ready(function () {
+
+        $('#sina').css('color', 'red');
+
+    });
+
+    $(document).ready(function () {
+
+        $('.a').css('color', 'green');
+
+    });
+
+
+
+    $(document).ready(function (){
+
+       
+        $("input:text").css({ "width": "600px" })
+
+
+    });
+
+    $(document).ready(function (){
+
+    //    $("li:first").css({ "background-color": "green" });
+
+    ///*    tek sayıları seçmek için*/
+    //    $("li:odd").css({ "background-color": "green" });
+    ///*    çift sayıları seçmek için*/
+    //    $("li:even").css({ "background-color": "green" });
+
+    //    $("li:last").css({ "background-color": "green" });
+
+
+    });
+
+    $(document).ready(function () {
+
+
+        //$(".sehend p").css({"background-color" : "red"});
+
+
+
+        /*    $(".sehend p:first-child").css({ "background-color": "red" });*/
+
+        $(".sehend").find("b").css({"background-color" : "red"});
+
+
+    });
+
+    $(document).ready(function () {
+
+
+
+        $(".iki").prev().css({"background-color" : "red"});
+
+        $(".iki").next().css({ "background-color": "red" });
+
+    });
+
+
+
+    $(document).ready(function () {
+
+
+
+        $(" li:eq(6)").css({ "background-color": "red" });
+
+
+
+    });
+
+
+
+
+    $(document).ready(function () {
+
+
+
+        $(" li").slice(7).css({ "background-color": "red" });
+
+
+    });
+
+
+
+
+</script>
