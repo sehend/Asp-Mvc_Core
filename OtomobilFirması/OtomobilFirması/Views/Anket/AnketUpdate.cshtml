@@ -1,0 +1,100 @@
+﻿@model Core.Model.Anket
+
+@{
+    ViewData["Title"] = "AnketUpdate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>AnketUpdate</h1>
+
+<h4>Anket</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AnketUpdate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="AnketId" />
+            <div class="form-group">
+                <label asp-for="TekrarAramaTarihiCevapsız" class="control-label"></label>
+                <input asp-for="TekrarAramaTarihiCevapsız" class="form-control" />
+                <span asp-validation-for="TekrarAramaTarihiCevapsız" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FiatTekilifiVerildi" class="control-label"></label>
+                <input asp-for="FiatTekilifiVerildi" class="form-control" />
+                <span asp-validation-for="FiatTekilifiVerildi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FiatTekifiHatırlatmaTarihi" class="control-label"></label>
+                <input asp-for="FiatTekifiHatırlatmaTarihi" class="form-control" />
+                <span asp-validation-for="FiatTekifiHatırlatmaTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fiat" class="control-label"></label>
+                <input asp-for="Fiat" class="form-control" />
+                <span asp-validation-for="Fiat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RandevuAldimi" class="control-label"></label>
+                <input asp-for="RandevuAldimi" class="form-control" />
+                <span asp-validation-for="RandevuAldimi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RandevuTarihi" class="control-label"></label>
+                <input asp-for="RandevuTarihi" class="form-control" />
+                <span asp-validation-for="RandevuTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RandevuDanişmanı" class="control-label"></label>
+                <input asp-for="RandevuDanişmanı" class="form-control" />
+                <span asp-validation-for="RandevuDanişmanı" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RandevuNedeni" class="control-label"></label>
+                <input asp-for="RandevuNedeni" class="form-control" />
+                <span asp-validation-for="RandevuNedeni" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BaskaSevis" class="control-label"></label>
+                <input asp-for="BaskaSevis" class="form-control" />
+                <span asp-validation-for="BaskaSevis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="YetkilimiÖzelmi" class="control-label"></label>
+                <input asp-for="YetkilimiÖzelmi" class="form-control" />
+                <span asp-validation-for="YetkilimiÖzelmi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="İslemBaskaServisİsmi" class="control-label"></label>
+                <input asp-for="İslemBaskaServisİsmi" class="form-control" />
+                <span asp-validation-for="İslemBaskaServisİsmi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="İslemBaskaServisYapılısTarihi" class="control-label"></label>
+                <input asp-for="İslemBaskaServisYapılısTarihi" class="form-control" />
+                <span asp-validation-for="İslemBaskaServisYapılısTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Sonuc" class="control-label"></label>
+                <input asp-for="Sonuc" class="form-control" />
+                <span asp-validation-for="Sonuc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DosyaDurumu" class="control-label"></label>
+                <input asp-for="DosyaDurumu" class="form-control" />
+                <span asp-validation-for="DosyaDurumu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
